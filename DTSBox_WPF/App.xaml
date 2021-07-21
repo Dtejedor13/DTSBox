@@ -1,0 +1,12 @@
+﻿<Application x:Class="DTSBox_WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DTSBox_WPF"
+             xmlns:com="clr-namespace:DTSBox_WPF.Common">
+    <Application.Resources>
+        <com:BoolToVisibilityConverter x:Key="BoolVisibleConverter" />
+        <com:InvertedBoolToVisibilityConverter x:Key="InvertedBoolVisibleConverter" />
+        <com:NullImageConverter x:Key="NullImageConverter" />
+        <com:PercentageConverter x:Key="PercentageConverter" />
+    </Application.Resources>
+</Application>

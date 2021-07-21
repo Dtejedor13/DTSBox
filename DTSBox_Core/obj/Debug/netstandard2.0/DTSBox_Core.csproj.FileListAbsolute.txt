@@ -1,0 +1,8 @@
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.deps.json
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.dll
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.pdb
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.AssemblyInfoInputs.cache
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.AssemblyInfo.cs
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csproj.CoreCompileInputs.cache
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.dll
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.pdb
