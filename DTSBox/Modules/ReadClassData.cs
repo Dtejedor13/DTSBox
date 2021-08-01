@@ -1,6 +1,8 @@
-﻿using DTSBox_Core.Interfaces;
+﻿using DTSBox_Core.Classes;
+using DTSBox_Core.Interfaces;
 using DTSBox_Core.Models;
 using System;
+using System.Linq;
 using System.Reflection;
 
 namespace DTSBox.Modules
@@ -8,6 +10,36 @@ namespace DTSBox.Modules
     class ReadClassData : IModule
     {
         public bool StartModule()
+        {
+            return readModularClass();
+        }
+
+        public bool EndOfModule()
+        {
+            return true;
+        }
+
+        private bool readModularClass()
+        {
+            ModularClass dummy = new ModularClass();
+
+            while (true)
+            {
+                Console.Clear();
+                dummy.PrintMethods();
+                Console.WriteLine("Enter Method...");
+                string select = Console.ReadLine();
+
+                int index = dummy.GetIndexOfMethod(select);
+                
+                if (index != -1)
+                    dummy.ExecuteMethod(index);
+            }
+
+            return true;
+        }
+
+        private bool readClassData()
         {
             try
             {
@@ -36,11 +68,6 @@ namespace DTSBox.Modules
             }
 
 
-            return true;
-        }
-
-        public bool EndOfModule()
-        {
             return true;
         }
     }

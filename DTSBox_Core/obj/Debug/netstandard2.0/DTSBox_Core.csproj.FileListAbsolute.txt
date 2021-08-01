@@ -6,3 +6,4 @@ C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Cor
 C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csproj.CoreCompileInputs.cache
 C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.dll
 C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.pdb
+C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csprojAssemblyReference.cache
