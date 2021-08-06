@@ -4,17 +4,23 @@ namespace DTSBox.Core
 {
     class Application : IApplication
     {
-        IModule module;
+        IDTSModule module;
 
-        public Application(IModule module)
+        public Application(IDTSModule module)
         {
             this.module = module;
         }
 
         public void Run()
         {
-            module.StartModule();
-            module.EndOfModule();
+            bool result = module.ModuleMain();
+            printResults(result);
+        }
+
+        private void printResults(bool result)
+        {
+            string message = result ? "Operation succesfully completed !" : "Operation failed !";
+            System.Console.WriteLine(message);
         }
     }
 }

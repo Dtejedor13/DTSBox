@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace DTSBox_Core.Classes
 {
-    public class ModularClass : IModularClass
+    public class ModularClass : IDTSModularClass
     {
         public List<Action> Methods { get; set; }
 
@@ -28,7 +28,7 @@ namespace DTSBox_Core.Classes
             };
         }
 
-        public void ExecuteMethod(int index)
+        public void MethodMain(int index)
         {
             if (askedForParamMethod)
                 MethodsParam_string[index].Invoke(askedParamValues[0]);

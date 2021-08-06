@@ -7,3 +7,12 @@ C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Cor
 C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.dll
 C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.pdb
 C:\Users\AMK\source\repos\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csprojAssemblyReference.cache
+C:\Code\Projects\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.deps.json
+C:\Code\Projects\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.dll
+C:\Code\Projects\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.pdb
+C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csproj.AssemblyReference.cache
+C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.AssemblyInfoInputs.cache
+C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.AssemblyInfo.cs
+C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csproj.CoreCompileInputs.cache
+C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.dll
+C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.pdb

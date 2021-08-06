@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hNk0UZdxvi1JHY0p2yIQamOU2GJlgTze3kGquCgtbNx73zrLeQuirWrnt2Vw3PAtmd5FUCHRSO3Pfno2CjnQLA==",
+  "dgSpecHash": "wds8h75rBXxwipLjcDVir51qdoXs4t1VBUbYueIsSwpLabTdtTD05cTaTBYtxNl3RugAfOWKmVHPEisDWyWKMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AMK\\source\\repos\\DTSBox\\DTSBox_WPF\\DTSBox_WPF.csproj",
+  "projectFilePath": "C:\\Code\\Projects\\DTSBox\\DTSBox_WPF\\DTSBox_WPF.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AMK\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
-    "C:\\Users\\AMK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\AMK\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\D.Tejedor\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\D.Tejedor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\D.Tejedor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
