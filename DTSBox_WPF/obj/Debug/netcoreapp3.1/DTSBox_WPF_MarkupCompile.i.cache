@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Code\Projects\DTSBox\DTSBox_WPF\obj\Debug\netcoreapp3.1\
+C:\Code\Git\DTSBox\DTSBox_WPF\obj\Debug\netcoreapp3.1\
 DTSBox_WPF
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Code\Projects\DTSBox\DTSBox_WPF\App.xaml
-1-1644662438
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+C:\Code\Git\DTSBox\DTSBox_WPF\App.xaml
+11892971807
 
-192069827794
-1951611145435
+19778681401
+1951072417506
 Views\MainWindow.xaml;
 
 True

@@ -140,6 +140,7 @@
     <Compile Include="ContainerConfig.cs" />
     <Compile Include="Core\Application.cs" />
     <Compile Include="Core\IApplication.cs" />
+    <Compile Include="Modules\AbfragePin.cs" />
     <Compile Include="Modules\ReadClassData.cs" />
     <Compile Include="Modules\ReadModularClass.cs" />
     <Compile Include="Modules\XMindExport.cs" />

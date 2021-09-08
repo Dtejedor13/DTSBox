@@ -14,7 +14,7 @@ namespace DTSBox
             builder.RegisterType<DTSBox.Core.Application>().As<DTSBox.Core.IApplication>();
 
             // Switch here executing Programm
-            builder.RegisterType<DTSBox.Modules.XMindExport>().As<IDTSModule>();
+            builder.RegisterType<DTSBox.Modules.AbfragePin>().As<IDTSModule>();
 
             builder.RegisterAssemblyTypes(Assembly.Load(nameof(DTSBox_Core)))
                 .Where(t => t.Namespace.Contains("Interfaces"))

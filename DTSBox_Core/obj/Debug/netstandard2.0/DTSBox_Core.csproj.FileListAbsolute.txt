@@ -16,3 +16,12 @@ C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.Assembl
 C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csproj.CoreCompileInputs.cache
 C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.dll
 C:\Code\Projects\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.pdb
+C:\Code\Git\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.deps.json
+C:\Code\Git\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.dll
+C:\Code\Git\DTSBox\DTSBox_Core\bin\Debug\netstandard2.0\DTSBox_Core.pdb
+C:\Code\Git\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csprojAssemblyReference.cache
+C:\Code\Git\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.AssemblyInfoInputs.cache
+C:\Code\Git\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.AssemblyInfo.cs
+C:\Code\Git\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.csproj.CoreCompileInputs.cache
+C:\Code\Git\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.dll
+C:\Code\Git\DTSBox\DTSBox_Core\obj\Debug\netstandard2.0\DTSBox_Core.pdb
